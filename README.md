@@ -1,2 +1,2 @@
 # Ejercicios-PHP
-generar un token con git flow
+generar un token con git flow.
